@@ -6,15 +6,19 @@ In this analysis, I created a Tableaus dashboard to help clients better understa
 
 ## Results
 
-Focusing in on customer demographics reveals that the majority of business is coming from Male Subscribers. 
+Focusing in on customer demographics reveals that the majority of business is coming from Male Subscribers.
+![image](https://github.com/scallina/Bike_Share_Dashboard/blob/main/Ride%20Duration.png)
+
 
 Across all demographics, the most popular ride times tend to be:
 - weekdays during typical commuting hours (7-9am and 5-7pm)
 - Saturdays during daylight hours (10am - 5pm)
+![image](https://github.com/scallina/Bike_Share_Dashboard/blob/main/rides%20by%20gender.png)
 
 Finally, focusing in on trip duration reveals that the vast majority of trips last less than 30 minutes.
 - The most common trip time for males was 5 minutes (108,087 trips). 
--  The most common trip time for females was 6 minutes (34,151 trips). 
+-  The most common trip time for females was 6 minutes (34,151 trips).
+![image](https://github.com/scallina/Bike_Share_Dashboard/blob/main/Ride%20Duration.png)
 
 ## Summary
 
