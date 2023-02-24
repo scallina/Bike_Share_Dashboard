@@ -2,7 +2,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/sean.callinan5901/viz/BikeShareCustomerAnalysis/Story2?publish=yes)
 
 ## Project Overview
-In this analysis, I created a Tableaus dashboard to help clients better understand the demographics of their ride share program's customer base, The dashboard allows users to see how gender identity relates to customer type, ride frequency, and ride length. 
+In this analysis, I used Python to clean a consumer data set and created a Tableaus dashboard to help clients better understand the demographics of their ride share program's customer base, The dashboard allows users to see how gender identity relates to customer type, ride frequency, and ride length. 
 
 ## Results
 
